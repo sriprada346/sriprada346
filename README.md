@@ -17,7 +17,7 @@ I'm a passionate software developer with a love for creating impactful projects.
 - **LinkedIn**: [Sriprada Upadya](https://www.linkedin.com/in/janedoe)
 
 ## Fun Facts
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Spring Boot , Adobe Illustrator
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Playing  and Digital Art 
 

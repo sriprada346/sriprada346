@@ -14,7 +14,7 @@ I'm a passionate software developer with a love for creating impactful projects.
 
 ## Contact
 - **Email**: sripradaupadya346@gmail.com
-- **LinkedIn**: [Sriprada Upadya](https://www.linkedin.com/in/janedoe)
+- **LinkedIn**: [Sriprada Upadya](https://www.linkedin.com/in/sripradaupadya)
 
 ## Fun Facts
 - 🌱 I’m currently learning Spring Boot , Adobe Illustrator

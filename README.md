@@ -19,7 +19,7 @@ I'm a passionate software developer with a love for creating impactful projects.
 ## Fun Facts
 - 🌱 I’m currently learning Spring Boot , Adobe Illustrator
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love Playing  and Digital Art 
+- ⚡ Fun fact: I love Playing Cricket , Badminton and Digital Art like Adobe Illustrator 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriprada346&show_icons=true&theme=radical)
@@ -29,4 +29,4 @@ I'm a passionate software developer with a love for creating impactful projects.
 ![GitHub stars](https://img.shields.io/github/stars/username?affiliations=OWNER&style=social)
 
 ![Profile Picture](https://yourimageurl.com)
- add for thius 
+  

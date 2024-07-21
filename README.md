@@ -4,9 +4,9 @@
 I'm a passionate software developer with a love for creating impactful projects. I specialize in Backend development and enjoy learning new technologies.
 
 ## Skills
-- **Languages**: Java , JavaScript, Python
+- **Languages**: Java , JavaScript, Python 
 - **Frameworks**: React, Spring Boot , Express
-- **Tools**: Git
+- **Tools**: Git , Adobe illustator , Adobe After Effect , Amibroker
 
 ## Projects
 - [Weather App](https://github.com/username/weather-app) - A weather forecasting app built with React and OpenWeatherMap API.

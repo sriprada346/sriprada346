@@ -36,7 +36,7 @@ I'm a passionate software developer specializing in backend development. I love 
 ## 🚀 Projects
 
 
-- [💼 Portfolio [Website]((https://sriprada346.github.io/Portfolio/)]: My personal portfolio showcasing my projects and skills.
+- [💼 Portfolio [Website](https://sriprada346.github.io/Portfolio/)]: My personal portfolio showcasing my projects and skills.
 
 ---
 

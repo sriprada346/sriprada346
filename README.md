@@ -35,8 +35,8 @@ I'm a passionate software developer specializing in backend development. I love 
 
 ## 🚀 Projects
 
-- [🌦️ Weather App](https://github.com/username/weather-app): A weather forecasting app built with React and OpenWeatherMap API.
-- [💼 Portfolio Website](https://github.com/username/portfolio): My personal portfolio showcasing my projects and skills.
+
+- [💼 Portfolio [Website]((https://sriprada346.github.io/Portfolio/)]: My personal portfolio showcasing my projects and skills.
 
 ---
 
